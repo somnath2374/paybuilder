@@ -22,8 +22,8 @@ This repository contains the frontend code for **PayBuilder**, built with **Reac
 ### Dashboard Overview
 ![Dashboard](./images/dashboard.jpg)
 
-### Add Worker
-![Add Worker](./images/workers management.jpg)
+### Worker Management
+![Add Worker](.images/workers mangement.jpg)
 
 ### Payslip Generation
 ![Payslip Generation](./images/payslip.jpg)
