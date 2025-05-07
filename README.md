@@ -32,7 +32,7 @@ This repository contains the frontend code for **PayBuilder**, built with **Reac
 ![Payslip Generation](./images/payslip.jpg)
 
 ### Add Worker
-![Add Worker](.images/addNewWorker.jpg)
+![Add Worker](images/addNewWorker.jpg)
 
 ### Add Payroll
 ![Add payroll](.images/addNewPayroll.jpg)
